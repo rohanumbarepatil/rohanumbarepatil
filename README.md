@@ -244,17 +244,15 @@ I'm a developer who sits at the intersection of **engineering and design**  writ
 
 **Let's build something remarkable.**
 
-<!-- [EDIT] Replace with your actual portfolio and email -->
-<a href="https://YOUR_PORTFOLIO.dev">
-  <img src="https://img.shields.io/badge/Visit%20Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+<div align="center">
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rohan-umbare-patil-76b971358/)
 &nbsp;
-<a href="mailto:umbarepatilrohan@gmail.com">
-  <img src="https://img.shields.io/badge/Get%20In%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:umbarepatilrohan@gmail.com)
+&nbsp;
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/rohanumbarepatil)
 
 </div>
+</div>
+
+
