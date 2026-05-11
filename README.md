@@ -173,6 +173,24 @@ I'm a developer who sits at the intersection of **engineering and design**  writ
 
 ---
 
+## 🏆 Achievements & Certifications
+
+<div align="center">
+  
+</div>
+
+<br/>
+
+<div align="center">
+
+| 🏅 Achievement / Certification | 🏢 Issuer | 📅 Year |
+|:-------------------------------|:----------|:--------|
+| 🥇 **Mini Hackathon Winner** | Tech Parvartan Event | Oct 2025 |
+| 🤖 **Internshala Student Partner** | Internshala (ISP) | 2025 |
+
+</div>
+
+---
 ## 📊 GitHub Analytics
 
 <div align="center">
