@@ -22,7 +22,7 @@
 <a href="https://x.com/RohanUpatil09" target="_blank">
   <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X"/>
 </a>
-<a href="https://3-d-portfolio-j2si.vercel.app/" target="_blank">
+<a href="rohan-protfolio-sepia.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="mailto:umbarepatilrohan@gmail.com">
