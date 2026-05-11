@@ -122,13 +122,13 @@ I'm a developer who sits at the intersection of **engineering and design**  writ
 <tr>
 <td width="50%" valign="top">
 
-### SatyaVani AI
-> AI-powered fact-checking and truth detection platform — combating misinformation with real-time LLM analysis.
+### Arogya360 – Smart Health Management System
+> Developed a full-stack web application focused on simplifying healthcare access through a centralized digital platform. The system enables users to explore medical services and book appointments seamlessly, improving efficiency and reducing manual processes.
 
-**Stack:** `React` `Node.js` `OpenAI API` `Firebase`
+**Stack:** `React` `Node.js` `javascript` `Firebase`
 
-[![Repo](https://img.shields.io/badge/Source-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/satyavani-ai)
-[![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=flat-square&logo=vercel&logoColor=white)](https://satyavani.vercel.app)
+[![Repo](https://img.shields.io/badge/Source-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/rohanumbarepatil/Smart-Health-Care-System)
+[![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=flat-square&logo=vercel&logoColor=white)](https://smart-health-system-e3411.web.app/)
 
 </td>
 <td width="50%" valign="top">
