@@ -123,7 +123,7 @@ I'm a developer who sits at the intersection of **engineering and design**  writ
 <td width="50%" valign="top">
 
 ### Arogya360 – Smart Health Management System
-> > A React + Firebase civic health platform for municipal authorities to monitor hospital resources in real time, with ML-powered fraud detection (Isolation Forest) that auto-flags suspicious data spikes and triggers instant authority alerts.
+> A React + Firebase civic health platform for municipal authorities to monitor hospital resources in real time, with ML-powered fraud detection (Isolation Forest) that auto-flags suspicious data spikes and triggers instant authority alerts.
 
 **Stack:** `React` `Node.js` `javascript` `Firebase`
 
@@ -133,43 +133,43 @@ I'm a developer who sits at the intersection of **engineering and design**  writ
 </td>
 <td width="50%" valign="top">
 
-### Portfolio Website
-> Personal developer portfolio with 3D interactions, smooth animations, and a clean engineering aesthetic.
+### Nexora iGAP Digital Experience Platform
+> Static marketing website for iGAP Technologies Pvt. Ltd. showcasing their AI, data science, and software development services, projects, and academy courses.
 
-**Stack:** `Next.js` `TailwindCSS` `Three.js` `Framer Motion`
+**Stack:** `HTML5` `CSS3` `Vanilla JavaScript` 
 
-[![Repo](https://img.shields.io/badge/Source-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/portfolio)
-[![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=flat-square&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO.dev)
+[![Repo](https://img.shields.io/badge/Source-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/Sanket-010s/NEXORA---iGAP-website-)
+[![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=flat-square&logo=vercel&logoColor=white)](https://nexora-i-gap-website.vercel.app/)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Voco App
-> Voice-first productivity application with AI transcription, smart summarization, and action-item extraction.
+### AIML Nexus – Gamified AI/ML Education Platform
+> An interactive AI/ML learning platform with quizzes, a Python playground, mini-games, an AI tutor, and a progress dashboard — built for Vibethon hackathon.
 
-**Stack:** `React` `Firebase` `Web Speech API` `OpenAI`
+**Stack:** `React` `Firebase` `Tailwind CSS` `OpenAI API`
 
-[![Repo](https://img.shields.io/badge/Source-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/voco-app)
-[![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=flat-square&logo=vercel&logoColor=white)](https://voco-app.vercel.app)
+[![Repo](https://img.shields.io/badge/Source-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/Sanket-010s/vibethon-TeamSparten-spot11)
+[![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=flat-square&logo=vercel&logoColor=white)](https://vibethon-teamsparten-spot11.web.app/auth)
 
 </td>
 <td width="50%" valign="top">
 
-### Billing System
-> Full-stack billing and invoice management system with PDF generation, payment tracking, and role-based access.
+### Ghabit
+> A zero-dependency, offline-first productivity suite combining habit tracking, task management, day planning, Pomodoro timer, and goal countdowns — all in a single vanilla web app.
 
-**Stack:** `React` `Node.js` `MongoDB` `Express`
+**Stack:** `HTML5` `CSS3` `Vanilla JavaScript` `Express.JS` `LocalStorage`
 
-[![Repo](https://img.shields.io/badge/Source-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/billing-system)
-[![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=flat-square&logo=vercel&logoColor=white)](https://billing-system.vercel.app)
+[![Repo](https://img.shields.io/badge/Source-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/rohanumbarepatil/Ghabit)
+[![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=flat-square&logo=vercel&logoColor=white)](https://rohanghabit.netlify.app/todolist.html)
 
 </td>
 </tr>
 </table>
 
-> 📌 More projects on my [repositories page](https://github.com/YOUR_USERNAME?tab=repositories)
+> 📌 More projects on my [repositories page](https://github.com/rohanumbarepatil?tab=repositories)
 
 ---
 
@@ -179,22 +179,22 @@ I'm a developer who sits at the intersection of **engineering and design**  writ
 
 <!-- [EDIT] Replace YOUR_USERNAME with your GitHub handle in all stat card URLs -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rohanumbarepatil&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9&rank_icon=github" height="165"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9&langs_count=8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanumbarepatil&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9&langs_count=8" height="165"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&stroke=7C3AED&ring=7C3AED&fire=FF6B6B&currStreakLabel=7C3AED&sideLabels=7C3AED&dates=8b949e" width="480"/>
+<img src="https://streak-stats.demolab.com?user=rohanumbarepatil&theme=tokyonight&hide_border=true&background=0d1117&stroke=7C3AED&ring=7C3AED&fire=FF6B6B&currStreakLabel=7C3AED&sideLabels=7C3AED&dates=8b949e" width="480"/>
 
 <br/><br/>
 
 <!-- Contribution snake animation — enable via GitHub Actions (see note below) -->
 <!-- [EDIT] Replace YOUR_USERNAME below -->
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/rohanumbarepatil/rohanumbarepatil/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohanumbarepatil/rohanumbarepatil/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/rohanumbarepatil/rohanumbarepatil/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 <!-- NOTE: To enable the snake, add the platane/snk GitHub Action to your profile repo.
@@ -208,11 +208,11 @@ I'm a developer who sits at the intersection of **engineering and design**  writ
 ## Currently Learning
 
 ```
-▸ Advanced LLM Integrations   ████████████░░░░   75%
-▸ Next.js App Router & RSC    ██████████░░░░░░   65%
-▸ Reinforcement Learning       ████████░░░░░░░░   50%
-▸ System Design (Distributed)  ██████░░░░░░░░░░   40%
-▸ Cybersecurity Fundamentals   █████░░░░░░░░░░░   35%
+▸ Advanced LLM Integrations    █████████░░░░░░░   55%
+▸ System Design (Distributed)  ███████░░░░░░░░░   45%
+▸ Next.js App Router & RSC     ██████░░░░░░░░░░   40%
+▸ Reinforcement Learning       ████░░░░░░░░░░░░   30%
+▸ Cybersecurity Fundamentals   ███░░░░░░░░░░░░░   20%
 ```
 
 ---
@@ -239,7 +239,7 @@ I'm a developer who sits at the intersection of **engineering and design**  writ
 <div align="center">
 
 > *"First, solve the problem. Then, write the code."*
-> — John Johnson
+> — Rohan
 
 <br/>
 
@@ -250,7 +250,7 @@ I'm a developer who sits at the intersection of **engineering and design**  writ
   <img src="https://img.shields.io/badge/Visit%20Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 &nbsp;
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:umbarepatilrohan@gmail.com">
   <img src="https://img.shields.io/badge/Get%20In%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
