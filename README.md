@@ -57,7 +57,7 @@ const rohan = {
 };
 ```
 
-I'm a developer who sits at the intersection of **engineering and design** — writing clean code while obsessing over great user experiences. I build full-stack products with modern web tech, explore AI/ML integrations, and love turning ambitious ideas into shipped software.
+I'm a developer who sits at the intersection of **engineering and design**  writing clean code while obsessing over great user experiences. I build full-stack products with modern web tech, explore AI/ML integrations, and love turning ambitious ideas into shipped software.
 
 - 🔭 Currently working on **AI-powered web platforms** and **real-world civic tech**
 - 🌱 Deepening expertise in **LLM integrations, Next.js App Router, and RL environments**
@@ -72,7 +72,6 @@ I'm a developer who sits at the intersection of **engineering and design** — w
 <!-- ── LANGUAGES ── -->
 **Languages**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -85,8 +84,6 @@ I'm a developer who sits at the intersection of **engineering and design** — w
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 
 <!-- ── BACKEND & DB ── -->
 **Backend & Database**
@@ -95,7 +92,6 @@ I'm a developer who sits at the intersection of **engineering and design** — w
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 <!-- ── AI/ML ── -->
 **AI / ML**
@@ -104,7 +100,6 @@ I'm a developer who sits at the intersection of **engineering and design** — w
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 <!-- ── TOOLS ── -->
 **Tools & Workflow**
