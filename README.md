@@ -123,7 +123,7 @@ I'm a developer who sits at the intersection of **engineering and design**  writ
 <td width="50%" valign="top">
 
 ### Arogya360 – Smart Health Management System
-> Developed a full-stack web application focused on simplifying healthcare access through a centralized digital platform. The system enables users to explore medical services and book appointments seamlessly, improving efficiency and reducing manual processes.
+> > A React + Firebase civic health platform for municipal authorities to monitor hospital resources in real time, with ML-powered fraud detection (Isolation Forest) that auto-flags suspicious data spikes and triggers instant authority alerts.
 
 **Stack:** `React` `Node.js` `javascript` `Firebase`
 
