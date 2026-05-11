@@ -7,7 +7,7 @@
 
 <!-- ── HERO BANNER ── -->
 <!-- [EDIT] Replace the capsule URL with your own name/tagline if desired -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20Rohan%20👋&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Builder&descAlignY=58&descSize=18&descColor=a0aec0&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20Rohan%20&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Builder&descAlignY=58&descSize=18&descColor=a0aec0&animation=fadeIn" width="100%"/>
 
 <!-- ── TYPING ANIMATION ── -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=false&width=600&lines=Building+things+that+matter+%F0%9F%9A%80;React+%C2%B7+Next.js+%C2%B7+Node+%C2%B7+Python+%C2%B7+Firebase;From+idea+to+deployed+product+%E2%9A%A1;AI+%2F+ML+%7C+Full+Stack+%7C+Open+Source)](https://git.io/typing-svg)
