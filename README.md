@@ -173,33 +173,32 @@ I'm a developer who sits at the intersection of **engineering and design**  writ
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rohanumbarepatil&show_icons=true&theme=tokyonight&hide_border=true&title_color=00BFFF&icon_color=00BFFF&bg_color=0d1117" alt="GitHub Stats" />
+  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rohanumbarepatil&layout=compact&theme=tokyonight&hide_border=true&title_color=00BFFF&bg_color=0d1117" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohanumbarepatil&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" />
+</div>
+
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=rohanumbarepatil&theme=tokyonight&bg_color=0d1117&hide_border=true&color=00BFFF&line=0077B5&point=ffffff" alt="Activity Graph" />
+</div>
+
+---
+
+## 🎓 Education
 
 <div align="center">
 
-<!-- [EDIT] Replace YOUR_USERNAME with your GitHub handle in all stat card URLs -->
-
-<img src="https://github-readme-stats.vercel.app/api?username=rohanumbarepatil&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9&rank_icon=github" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanumbarepatil&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9&langs_count=8" height="165"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=rohanumbarepatil&theme=tokyonight&hide_border=true&background=0d1117&stroke=7C3AED&ring=7C3AED&fire=FF6B6B&currStreakLabel=7C3AED&sideLabels=7C3AED&dates=8b949e" width="480"/>
-
-<br/><br/>
-
-<!-- Contribution snake animation — enable via GitHub Actions (see note below) -->
-<!-- [EDIT] Replace YOUR_USERNAME below -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/rohanumbarepatil/rohanumbarepatil/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohanumbarepatil/rohanumbarepatil/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/rohanumbarepatil/rohanumbarepatil/output/github-contribution-grid-snake.svg"/>
-</picture>
-
-<!-- NOTE: To enable the snake, add the platane/snk GitHub Action to your profile repo.
-     Workflow file: .github/workflows/snake.yml
-     Instructions: https://github.com/Platane/snk -->
+| 🎓 Degree | 🏫 Institution | 📅 Year | 📊 Score |
+|:----------|:--------------|:--------|:---------|
+| **B.Tech – Computer Science Engineering** | Sanjay Ghodawat Institute, Kolhapur | 2024 – 2028 | *Current* |
+| **12th Grade (PCMB)** | Walchand College Of Arts And Science, Solapur | 2022 — 2024 | 60.2% |
+| **10th Grade (SSC)** | Vasantrao Gopinath Patil High School Nanduri, Tulajapur |2023 — 2024 | 89.80% |
 
 </div>
 
