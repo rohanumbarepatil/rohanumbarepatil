@@ -222,17 +222,6 @@ I'm a developer who sits at the intersection of **engineering and design**  writ
 
 ---
 
-## Currently Learning
-
-```
-▸ Advanced LLM Integrations    █████████░░░░░░░   55%
-▸ System Design (Distributed)  ███████░░░░░░░░░   45%
-▸ Next.js App Router & RSC     ██████░░░░░░░░░░   40%
-▸ Reinforcement Learning       ████░░░░░░░░░░░░   30%
-▸ Cybersecurity Fundamentals   ███░░░░░░░░░░░░░   20%
-```
-
----
 
 ## Highlights
 
