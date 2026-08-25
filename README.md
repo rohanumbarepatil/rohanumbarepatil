@@ -377,12 +377,35 @@ Building and presenting software products under **short development timelines**,
 
 <div align="center">
 
-<img src="./profile/stats.svg" width="49%" alt="GitHub Statistics"/>
-<img src="./profile/top-langs.svg" width="40%" alt="Top Languages"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/stats.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile/stats.svg">
+  <img src="./profile/stats.svg" width="49%" alt="GitHub Statistics">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs.svg">
+  <img src="./profile/top-langs.svg" width="40%" alt="Top Languages">
+</picture>
 
 <br/><br/>
 
-<img src="./profile/profile-details.svg" width="95%" alt="GitHub Contribution Graph"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/rohanumbarepatil/rohanumbarepatil/output/activity-graph.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/rohanumbarepatil/rohanumbarepatil/output/activity-graph.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/rohanumbarepatil/rohanumbarepatil/output/activity-graph.svg"
+    width="95%"
+    alt="GitHub Contribution Graph"
+  />
+</picture>
 
 </div>
 
