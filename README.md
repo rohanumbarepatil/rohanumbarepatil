@@ -418,7 +418,7 @@ Building and presenting software products under **short development timelines**,
 | Degree                                    | Institution                                             |    Period   |   Score |
 | :---------------------------------------- | :------------------------------------------------------ | :---------: | ------: |
 | **B.Tech · Computer Science Engineering** | Sanjay Ghodawat Institute, Kolhapur                     | 2024 – 2028 | Current |
-| **12th Grade · PCMB**                     | Walchand College Of Arts And Science, Solapur           | 2022 – 2024 |   60.2% |
+| **12th Grade · PCM**                     | Walchand College Of Arts And Science, Solapur           | 2022 – 2024 |   60.2% |
 | **10th Grade · SSC**                      | Vasantrao Gopinath Patil High School Nanduri, Tulajapur | 2023 – 2024 |  89.80% |
 
 </div>
