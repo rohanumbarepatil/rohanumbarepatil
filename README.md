@@ -478,8 +478,6 @@ working experiences.
 <img src="https://img.shields.io/badge/LINKEDIN-111827?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<br/><br/>
-
 <sub>Full Stack Development · AI/ML · Product Engineering</sub>
 
 </div>
