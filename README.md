@@ -137,7 +137,7 @@ An AI-powered waste classification platform that uses computer vision and machin
 </a>
 &nbsp;
 <a href="https://bsit-hackton-2026.vercel.app/login">
-<img src="https://img.shields.io/badge/Project%20Demo-16A34A?style=flat-square&logo=googlechrome&logoColor=white" alt="Project Demo"/>
+<img src="https://img.shields.io/badge/Live-475569?style=flat-square&logo=vercel&logoColor=white" alt="Live"/>
 </a>
 
 </td>
