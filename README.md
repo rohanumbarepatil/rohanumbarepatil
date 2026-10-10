@@ -164,7 +164,9 @@ A civic-health platform built around hospital-resource monitoring and health-man
 </a>
 
 </td>
+</tr>
 
+<tr>
 <td width="50%" valign="top">
 
 ### TechPravartan 2025 MVP
@@ -181,10 +183,6 @@ A full-stack web platform developed from scratch under a 24-hour hackathon const
 **Recognition:** 🥇 1st Place Winner
 
 </td>
-
-</tr>
-
-<tr>
 
 <td width="50%" valign="top">
 
@@ -248,6 +246,9 @@ A marketing website developed for **iGAP Technologies Pvt. Ltd.**, presenting it
 </a>
 
 </td>
+</tr>
+
+<tr>
 
 <td width="50%" valign="top">
 
@@ -272,7 +273,6 @@ A lightweight productivity web application combining habit tracking, task manage
 
 </td>
 
-</tr>
 </table>
 
 <div align="center">
