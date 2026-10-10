@@ -206,6 +206,9 @@ An interactive learning platform combining quizzes, a Python playground, mini-ga
 </a>
 
 </td>
+</tr>
+
+<tr>
 
 <td width="50%" valign="top">
 
@@ -219,10 +222,6 @@ A full-stack application focused on employee-management workflows, RESTful APIs,
 `Java` `Spring Boot` `MySQL` `JavaScript` `REST APIs`
 
 </td>
-
-</tr>
-
-<tr>
 
 <td width="50%" valign="top">
 
@@ -272,6 +271,7 @@ A lightweight productivity web application combining habit tracking, task manage
 </a>
 
 </td>
+
 
 </table>
 
