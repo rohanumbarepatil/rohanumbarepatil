@@ -181,7 +181,7 @@ A full-stack web platform developed from scratch under a 24-hour hackathon const
 
 <br/>
 
-**Recognition:** 🥇 1st Place Winner
+**Recognition:** 1st Place Winner
 
 </td>
 
@@ -386,12 +386,13 @@ Building and presenting software products under **short development timelines**,
 
 | Recognition / Achievement | Organization / Event | Details |
 |:---|:---|:---|
-| 🥇 **1st Place Winner** | TechPravartan 2025 | 24-hour Hackathon |
-| 🏆 **National Finalist** | HackAura 2026 | 4-person Engineering Team |
-| 📣 **Official College Ambassador** | Techfest, IIT Bombay | Student Outreach & Engagement |
-| 💻 **Java Full Stack Developer Intern** | Kinetrexa Software Pvt. Ltd. | Jun 2026 – Jul 2026 |
-| 🤝 **Campus Mantri** | GeeksforGeeks | Student Developer Community |
-| 🎓 **Student Partner** | Internshala | Campus Student Outreach |
+| **1st Place Winner** | TechPravartan 2025 | 24-hour Hackathon |
+| **Ranked Top 10 Among 60+ Teams** | Impulse 2026 | Mini Hackathon |
+| **National Finalist** | HackAura 2026 | 4-person Engineering Team |
+| **Official College Ambassador** | Techfest, IIT Bombay | Student Outreach & Engagement |
+| **Java Full Stack Developer Intern** | Kinetrexa Software Pvt. Ltd. | Jun 2026 – Jul 2026 |
+| **Campus Mantri** | GeeksforGeeks | Student Developer Community |
+| **Student Partner** | Internshala | Campus Student Outreach |
 
 </div>
 
