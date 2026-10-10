@@ -26,8 +26,9 @@
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=rohanumbarepatil&style=flat-square&color=6B7280&label=PROFILE+VIEWS" alt="Profile Views"/>
-  &nbsp;
+<img
+  src="https://komarev.com/ghpvc/?username=rohanumbarepatil&style=flat-square&color=0078D4&label=PROFILE%20VIEWS"alt="Profile Views"/>
+ 
   <img src="https://img.shields.io/github/followers/rohanumbarepatil?style=flat-square&color=6B7280&label=FOLLOWERS" alt="Followers"/>
 </p>
 
