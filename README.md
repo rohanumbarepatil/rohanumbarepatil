@@ -121,6 +121,29 @@ const rohan = {
 
 <td width="50%" valign="top">
 
+### WasteSense AI
+**AI-Powered Campus Sustainability Platform**
+
+An AI-powered waste classification platform that uses computer vision and machine learning to support smarter campus waste management through image analysis and structured data processing.
+
+**Stack**
+
+`TensorFlow` `MobileNetV2` `OpenCV` `Python` `Flask` `PostgreSQL`
+
+<br/>
+
+<a href="https://github.com/rohanumbarepatil/BSIT-Hackton-2026">
+<img src="https://img.shields.io/badge/Source-111827?style=flat-square&logo=github&logoColor=white" alt="Source"/>
+</a>
+&nbsp;
+<a href="https://bsit-hackton-2026.vercel.app/login">
+<img src="https://img.shields.io/badge/Project%20Demo-16A34A?style=flat-square&logo=googlechrome&logoColor=white" alt="Project Demo"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
 ### Arogya360
 **Smart Health Management System**
 
